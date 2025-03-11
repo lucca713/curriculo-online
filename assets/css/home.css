@@ -144,8 +144,8 @@ margin-bottom: 100px;
 
   .container .h-educacao .h-title-educacao {
     width: 100%;
-   height: 50px;
-   border-bottom: 2px solid #00E0FF;
+    height: 50px;
+    border-bottom: 2px solid #00E0FF; /* Adicionando a linha azul */
     margin-bottom: 50px;
   }
 
@@ -200,14 +200,14 @@ margin-bottom: 100px;
   }
  
   .container .h-habilidades .h-title-habilidades {
-   width: 100px;
+   width: 100%;
    height: 50px;
    border-bottom: 2px solid #00E0FF;
    border-bottom: 50px;
   }
  
   .container .h-habilidades .h-title-habilidades h2{
-    margin-top: 5%      ;
+    margin-top: 5% ;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 26px;
