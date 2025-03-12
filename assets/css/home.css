@@ -242,7 +242,7 @@ margin-bottom: 100px;
     width: 200px;
     height: 18px;
     overflow: hidden;
-    border: 1px solid #e7e7e7;
+    border: 2px solid black;
     border-radius: 6px;
     background: transparent;
 }
